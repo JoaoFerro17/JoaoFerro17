@@ -21,7 +21,7 @@ I am Catholic, and on weekends, I participate in activities at the Church.
     alt="HTML"
     title="HTML"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 10;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 
@@ -29,8 +29,10 @@ I am Catholic, and on weekends, I participate in activities at the Church.
     alt="CSS"
     title="CSS"
     width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    style="padding-right: 10;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  
+
+...
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoFerro17/JoaoFerro17/refs/heads/output/github-snake-dark.svg" />
