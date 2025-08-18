@@ -4,7 +4,6 @@
 
 My name is João Victor Martins Ferro, I am 22 years old, and I am from Paraná, Brazil. I completed high school at a public school in 2020, and I am currently pursuing a degree in Computer Science at the Filadélfia University Center - UniFil. 
 
-- Member of the AI research group at UniFil 📋
 - Monitor at Londrinense Tech
 - Monitor at Pensamento Computacional
 
@@ -30,7 +29,14 @@ I am Catholic, and on weekends, I participate in activities at the Church.
     title="CSS"
     width="30px"
     style="padding-right: 10;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
+
+<img align="left"
+    alt="jAVA"
+    title="JAVA"
+    width="30px"
+    style="padding-right: 10;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
 ...
 
